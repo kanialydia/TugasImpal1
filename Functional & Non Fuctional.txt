@@ -1,0 +1,26 @@
+Layanan Lost And Found PT KAI DAOP 2 Bandung
+
+Kebutuhan Fungsional:
+A.	Pelapor
+1.	Sistem dapat melakukan input data barang hilang.
+B.	 Super Admin
+1.	Sistem dapat melakukan input data admin baru.
+2.	Sistem dapat melakukan input data barang yang ditemukan.
+3.	Sistem dapat menampilkan serta mengubah semua data admin.
+4.	Sistem dapat menampilkan semua laporan belum terproses oleh pelapor dan memproses laporan tersebut.
+5.	Sistem dapat menampilkan semua data laporan terproses.
+6.	Sistem dapat menampilkan semua data barang belum terklaim dan melakukan perubahan pada data tersebut.
+7.	Sistem dapat menampilkan semua data barang sudah terklaim.
+C.	Admin
+1.	Sistem dapat melakukan input data barang yang ditemukan.
+2.	Sistem dapat menampilkan semua laporan belum terproses oleh pelapor dan memproses laporan tersebut.
+3.	Sistem dapat menampilkan semua data laporan terproses.
+4.	Sistem dapat menampilkan semua data barang belum terklaim dan melakukan perubahan pada data tersebut.
+5.	Sistem dapat menampilkan semua data barang sudah terklaim.
+Kebutuhan Non Fungsional:
+1.	Sistem memiliki tampilan (antar muka) yang mudah dipahami.
+2.	Menggunakan Bahasa Indonesia.
+3.	Keamanan terjaga dengan adanya password.
+4.	Dapat diakses 22 jam/hari.
+5.	Aplikasi setidaknya mampu menampilkan materi rata-rata 30 detik.
+ 
