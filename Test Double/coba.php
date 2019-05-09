@@ -56,5 +56,5 @@ $implementationMock->shouldReceive('__construct')
 
 $implementation = new \Some\Implementation(['host' => 'localhost']);
 
-
+//
 ?>
